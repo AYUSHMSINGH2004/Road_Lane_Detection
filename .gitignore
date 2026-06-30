@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+road_dataset/
+yolo_dataset/
+
+runs/
+project_results/
+testing_results/
+before_after/
+lane_detection_results/
+
+*.jpg
+*.png
+*.zip
+
+.env
